@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# build
+/client_build
+/server_build
+
+#other
+.history
